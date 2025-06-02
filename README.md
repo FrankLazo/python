@@ -31,3 +31,5 @@ Apuntes generales sobre **Programación en Python**.
 ## Sentencias de control
 
 - [Condicionales](./notes/conditions.md)
+- [Bucle determinado](./notes/)
+- [Bucle indeterminado](./notes/)
