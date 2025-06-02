@@ -88,7 +88,6 @@ print( not True )
 print( not False )
 print( "" )
 
-
 # De pertenencia -----------------------
 
 print( "str" in "string" )

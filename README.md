@@ -19,8 +19,15 @@ Apuntes generales sobre **Programación en Python**.
 
 ### Colecciones
 
-- [Listas](./notes/functions.md)
-- [Tuplas](./notes/functions.md)
-- [Diccionarios](./notes/functions.md)
+- [Listas](./notes/lists.md)
+- [Tuplas](./notes/tuples.md)
+- [Diccionarios](./notes/)
+
+### Entrada y salida de datos
+
+- [Entrada estándar](./notes/stdin.md)
+- [Salida estándar](./notes/stdout.md)
 
 ## Sentencias de control
+
+- [Condicionales](./notes/conditions.md)

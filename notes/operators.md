@@ -79,18 +79,15 @@ operador_not_in =  "str" not in "string" # Devuelve False
 
 ## De identidad
 
-- Si dos variables son iguales dependiendo del tipo
-
-```py
-operador_is     =  "str"   is   "string" # Devuelve False
-operador_is_not =  "str" is not "string" # Devuelve True
-```
-
-- Las listas son objetos mutables
+- Si dos variables apuntan al mismo objeto en memoria
 
 ```py
 a = [ 10, 20, 30 ]
 b = [ 10, 20, 30 ]
 
-print( a is b ) # Devuelve False
+operador_is     =  a   is   b # Devuelve False
+operador_is_not =  a is not b # Devuelve True
+
+c = a
+print( a is c ) # Devuelve True
 ```
