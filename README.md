@@ -27,9 +27,14 @@ Apuntes generales sobre **Programación en Python**.
 
 - [Entrada estándar](./notes/stdin.md)
 - [Salida estándar](./notes/stdout.md)
+- [Cadenas de caracteres](./notes/strings.md)
 
 ## Sentencias de control
 
 - [Condicionales](./notes/conditions.md)
-- [Bucle determinado](./notes/)
-- [Bucle indeterminado](./notes/)
+- [Bucle determinado](./notes/for-loop.md)
+- [Bucle indeterminado](./notes/while-loop)
+- [Instrucción `pass`](./notes/pass.md)
+- [Instrucción `continue`](./notes/continue.md)
+- [Instrucción `break`](./notes/break.md)
+- [Instrucción `else`](./notes/else.md)
