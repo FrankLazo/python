@@ -4,3 +4,4 @@
 - [Condicionales](conditions.md)
 - [Colecciones](arrays.md)
 - [Bucles](loops.md)
+- [Asteriscos](asterisks.md)
