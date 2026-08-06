@@ -1,18 +1,18 @@
 # Condicionales
 
-```py
+```python
 if edad >= 18:
     print("Eres mayor de edad")
 ```
 
-```py
+```python
 if edad >= 18:
     print("Eres mayor de edad")
 else:
     print("Eres menor de edad")
 ```
 
-```py
+```python
 if nota >= 90:
     print("Sobresaliente")
 elif nota >= 70:

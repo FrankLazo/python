@@ -1,6 +1,6 @@
 # Bucle indeterminado
 
-```py
+```python
 contador = 1
 
 while contador <= 5:
@@ -8,7 +8,7 @@ while contador <= 5:
     contador += 1
 ```
 
-```py
+```python
 while True:
     password = input("Contraseña: ")
     if password == "python123":

@@ -1,17 +1,20 @@
 # Conversión de tipos
 
-```py
+```python
 texto = str(125.37)
 ```
 
-```py
+```python
 entero = int(-20.5)
+```
+
+```python
 flotante = float("-20.5")
 ```
 
 Valores que se consideran `False`:
 
-```py
+```python
 booleano = bool("")
 booleano = bool(0)
 booleano = bool(0.0)

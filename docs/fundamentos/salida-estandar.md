@@ -2,13 +2,13 @@
 
 Salida de datos normalmente conectada a la **pantalla**
 
-```py
+```python
 print()                   # línea vacía
 print("Python")           # final con salto de línea
 print("Python", end=" ")  # final con espacio
 ```
 
-```py
+```python
 print("A", "B", "C")           # A B C
 print("A", "B", "C", sep="-")  # A-B-C
 ```

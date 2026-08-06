@@ -1,6 +1,6 @@
 # Instrucción `else`
 
-```py
+```python
 numeros = [3, 5, 2, 1, 4]
 
 for n in numeros:

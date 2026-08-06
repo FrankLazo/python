@@ -2,14 +2,14 @@
 
 Entrada de datos normalmente conectada al **teclado**
 
-```py
+```python
 input()  # pausar ejecución del programa
 input("Presionar ENTER para continuar")
 ```
 
 Entrada de datos es de tipo `string`
 
-```py
+```python
 entrada = input()
 entrada = input("Escribir datos: ")
 ```

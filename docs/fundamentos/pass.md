@@ -1,6 +1,6 @@
 # Instrucción `pass`
 
-```py
+```python
 if numero >= 0:
     pass
 else:
