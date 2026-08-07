@@ -1,13 +1,4 @@
-# Cadenas
-
-Objeto **inmutable** de **caracteres**: `str`
-
-```python
-s_vacio = ""
-nombre = "Python"
-```
-
-## Métodos
+# Métodos de cadenas
 
 - `.find()`    → Obtener índice de carácter (o `-1`)
 - `.strip()`   → Eliminar espacios a la izquierda y derecha

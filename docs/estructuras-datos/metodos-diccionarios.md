@@ -1,27 +1,5 @@
-# Diccionarios
+# Métodos de diccionarios
 
-Estructura de datos en pares `"clave": valor`: `dict`
-
-```python
-dicc_vacio = {}
-```
-
-```python
-persona = {
-    "nombre": "Ana",
-    "edad": 25,
-    "ciudad": "Lima"
-}
-```
-
-```python
-persona["nombre"]           # obtener valor
-persona["estatura"] = 1.65  # nuevo elemento
-```
-
-## Métodos y funciones
-
-- `len()`      → Contar todas las claves
 - `.get()`     → Obtener valor por clave (o valor por defecto)
 - `.keys()`    → Obtener claves
 - `.values()`  → Obtener valores

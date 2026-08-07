@@ -1,6 +1,4 @@
-# Iterables
-
-Objeto cuyos elementos pueden **recorrerse uno a uno**: `list`, `tuple`, `str`, `range`, `dict`
+# Recorrer iterables
 
 ```python
 for elemento in lista:
@@ -25,4 +23,9 @@ for i in range(n):
 ```python
 for clave in diccionario:
     print(clave)
+```
+
+```python
+for elemento in conjunto:
+    print(elemento)
 ```
