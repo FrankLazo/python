@@ -31,3 +31,8 @@
 - [Instrucción `break`](fundamentos/break.md)
 - [Instrucción `else`](fundamentos/else.md)
 - [Instrucción `pass`](fundamentos/pass.md)
+
+## Miscelánea
+
+- [Encadenamiento](fundamentos/encadenamiento.md)
+- [Expresión condicional](fundamentos/ternario.md)
