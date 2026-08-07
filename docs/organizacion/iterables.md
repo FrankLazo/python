@@ -1,0 +1,28 @@
+# Iterables
+
+Objeto cuyos elementos pueden **recorrerse uno a uno**: `list`, `tuple`, `str`, `range`, `dict`
+
+```python
+for elemento in lista:
+    print(elemento)
+```
+
+```python
+for elemento in tupla:
+    print(elemento)
+```
+
+```python
+for caracter in cadena:
+    print(caracter)
+```
+
+```python
+for i in range(n):
+    print(i)
+```
+
+```python
+for clave in diccionario:
+    print(clave)
+```

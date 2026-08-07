@@ -40,6 +40,18 @@ Apuntes personales del lenguaje de programación [Python][python]
 - [Instrucción `else`](docs/fundamentos/else.md)
 - [Instrucción `pass`](docs/fundamentos/pass.md)
 
+## Organización de datos y código
+
+### Estructuras de datos
+
+- [Listas](docs/organizacion/listas.md)
+- [Tuplas](docs/organizacion/tuplas.md)
+- [Cadenas](docs/organizacion/cadenas.md)
+- [Secuencias](docs/organizacion/secuencias.md)
+- [Diccionarios](docs/organizacion/diccionarios.md)
+- [Colecciones](docs/organizacion/colecciones.md)
+- [Iterables](docs/organizacion/iterables.md)
+
 <!-- REFERENCIAS -->
 
 [python]: https://www.python.org/
