@@ -11,4 +11,4 @@
 | 7         | Lógico      | `and`                       |
 | 8         | Lógico      | `or`                        |
 
-> Asociatividad general de izquierda a derecha
+> Asociatividad general de **izquierda a derecha**

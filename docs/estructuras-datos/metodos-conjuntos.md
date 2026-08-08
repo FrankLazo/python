@@ -7,3 +7,16 @@
 - `.pop()`     → Eliminar y devolver un elemento cualquiera
 - `.clear()`   → Eliminar todos los elementos
 - `.copy()`    → Obtener copia
+
+Operaciones:
+
+- `.union()`                → Unión
+- `.intersection()`         → Intersección
+- `.difference()`           → Diferencia
+- `.symmetric_difference()` → Diferencia simétrica
+
+Comparaciones:
+
+- `.issubset()`   → Subconjunto
+- `.issuperset()` → Superconjunto
+- `.isdisjoint()` → Disjuntos

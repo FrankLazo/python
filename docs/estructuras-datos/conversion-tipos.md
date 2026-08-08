@@ -1,7 +1,21 @@
 # Conversión de tipos
 
-- `list()`  → Convertir a lista
-- `tuple()` → Convertir a tupla
-- `str()`   → Convertir a cadena
-- `dict()`  → Convertir a diccionario
-- `set()`   → Convertir a conjunto
+```python
+lista = list((1, 2, 3))  # [1, 2, 3]
+```
+
+```python
+tupla = tuple([1, 2, 3])  # (1, 2, 3)
+```
+
+```python
+cadena = str([1, 2, 3])  # '[1, 2, 3]'
+```
+
+```python
+diccionario = dict([("a", 1), ("b", 2)])  # {"a": 1, "b": 2}
+```
+
+```python
+conjunto = set([1, 2, 3])  # {1, 2, 3}
+```

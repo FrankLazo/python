@@ -28,6 +28,7 @@
 - [Concatenación](estructuras-datos/concatenacion.md)
 - [Repetición](estructuras-datos/repeticion.md)
 - [Pertenencia](estructuras-datos/pertenencia.md)
+- [Teoría de conjuntos](estructuras-datos/teoría-conjuntos.md)
 
 ## Funciones
 
@@ -51,3 +52,5 @@
 - [Desempaquetado de tuplas](estructuras-datos/desempaquetado-tuplas.md)
 - [Variable descartable](estructuras-datos/variable-descartable.md)
 - [Instrucción `del`](estructuras-datos/del.md)
+- [Comprensiones](estructuras-datos/comprensiones.md)
+- [Conjuntos inmutables](estructuras-datos/conjuntos-inmutables.md)
