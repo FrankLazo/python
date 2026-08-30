@@ -12,6 +12,7 @@ Apuntes personales del lenguaje de programación [Python][python]
 - [Estructuras de datos](docs/estructuras-datos.md)
 - [Organización del código](docs/organizacion-codigo.md)
 - [Errores y excepciones](docs/errores-excepciones.md)
+- [Programación orientada a objetos](docs/poo.md)
 
 <!-- REFERENCIAS -->
 
