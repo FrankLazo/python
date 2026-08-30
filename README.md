@@ -10,6 +10,7 @@ Apuntes personales del lenguaje de programación [Python][python]
 
 - [Fundamentos de programación](docs/fundamentos.md)
 - [Estructuras de datos](docs/estructuras-datos.md)
+- [Organización del código](docs/organizacion-codigo.md)
 
 <!-- REFERENCIAS -->
 
