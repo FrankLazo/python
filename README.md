@@ -14,6 +14,16 @@ Apuntes personales del lenguaje de programación [Python][python]
 - [Errores y excepciones](docs/errores-excepciones.md)
 - [Programación orientada a objetos](docs/poo.md)
 
+## Complementos
+
+- [Terminal](docs/terminal.md)
+- [Buenas prácticas](docs/buenas-practicas.md)
+
+Extensiones para VS Code:
+
+- [Python][vscode-python] (Microsoft)
+
 <!-- REFERENCIAS -->
 
 [python]: https://www.python.org/
+[vscode-python]: https://marketplace.visualstudio.com/items?itemName=ms-python.python
