@@ -16,6 +16,6 @@ class CuentaUsuario:  # PascalCase
 INTENTOS_MAXIMOS = 3  # MAYÚSCULAS
 ```
 
-```python
+```powershell
 modulo_archivo.py  # snake_case
 ```
